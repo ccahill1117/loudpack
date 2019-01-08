@@ -1,3 +1,3 @@
 export function Example() {
-  this.example = []
-}
+  this.example = [];
+};
