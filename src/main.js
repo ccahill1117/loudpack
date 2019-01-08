@@ -1,4 +1,4 @@
-import { XXXXX } from './XXXXX';
+import { Example } from './example';
 import './styles.css';
 import $ from 'jquery';
 import 'bootstrap';
